@@ -1,0 +1,20 @@
+[
+{
+  "modid": "StoneBrickCrafting",
+  "name": "Stone Brick Crafting",
+  "description": "The Stone Brick Crafting Mod! Get exotic stone bricks without going to a stronghold!",
+  "version": "0.0.1",
+  "url": "N/A",
+  "updateUrl": "",
+  "authorList": [
+    "violentninja"
+  ],
+  "credits": "Pahimar's "Let's Mod" YouTube series helped out a ton :-)",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
